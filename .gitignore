@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+
+# models
+models/
+*.pkl
+
+# datasets
+*.csv
+datasets/
+
+./knowledge
+# large assets
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
