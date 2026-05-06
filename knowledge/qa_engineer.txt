@@ -1,0 +1,16 @@
+QA Engineer resumes should focus on testing and quality assurance.
+
+Recruiters expect:
+• test automation
+• bug tracking
+• regression testing
+
+Projects should include:
+• test coverage
+• defect reduction
+• CI/CD integration
+
+Technologies:
+Selenium, Cypress, JUnit
+
+Strong resumes show product reliability.

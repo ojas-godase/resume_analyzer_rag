@@ -1,0 +1,16 @@
+EdTech Engineer resumes should focus on learning systems.
+
+Recruiters expect:
+• recommendation systems
+• engagement tracking
+• scalable platforms
+
+Projects should include:
+• learning platforms
+• personalization
+• retention metrics
+
+Technologies:
+React, Node.js
+
+Strong resumes show improved learning outcomes.

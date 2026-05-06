@@ -1,0 +1,16 @@
+Cybersecurity resumes should focus on securing systems and networks.
+
+Recruiters expect:
+• vulnerability assessment
+• threat detection
+• penetration testing
+
+Projects should include:
+• attack simulations
+• mitigation strategies
+• security audits
+
+Technologies:
+Wireshark, Metasploit, SIEM tools
+
+Strong resumes show risk reduction.

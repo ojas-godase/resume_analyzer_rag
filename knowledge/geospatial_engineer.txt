@@ -1,0 +1,16 @@
+Geospatial Engineer resumes should focus on location-based systems.
+
+Recruiters expect:
+• spatial data processing
+• mapping systems
+• geospatial analysis
+
+Projects should include:
+• GIS pipelines
+• map visualizations
+• routing systems
+
+Technologies:
+PostGIS, QGIS, Python
+
+Strong resumes show real-world mapping systems.

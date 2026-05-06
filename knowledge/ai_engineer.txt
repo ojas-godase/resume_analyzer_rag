@@ -1,0 +1,16 @@
+AI engineer resumes should highlight building intelligent systems using modern AI tools.
+
+Recruiters expect:
+• LLM integration
+• AI application development
+• prompt engineering
+
+Projects should include:
+• use case description
+• architecture design
+• evaluation of AI output quality
+
+Technologies:
+LLMs, vector databases, LangChain, model APIs.
+
+Strong resumes show practical AI applications rather than theoretical experiments.

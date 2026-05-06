@@ -1,0 +1,16 @@
+DevOps resumes should emphasize infrastructure automation and deployment systems.
+
+Recruiters evaluate:
+• CI/CD pipeline design
+• containerization
+• infrastructure as code
+
+Projects should include:
+• deployment automation
+• monitoring setup
+• system reliability improvements
+
+Technologies:
+Docker, Kubernetes, Terraform, Jenkins.
+
+Experience managing cloud infrastructure is highly valued.

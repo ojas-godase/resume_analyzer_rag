@@ -1,0 +1,16 @@
+Game Developer resumes should highlight interactive system design.
+
+Recruiters expect:
+• game mechanics
+• graphics programming
+• performance optimization
+
+Projects should include:
+• gameplay features
+• rendering techniques
+• FPS optimization
+
+Technologies:
+Unity, Unreal Engine, C#
+
+Strong resumes show playable games.

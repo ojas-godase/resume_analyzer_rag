@@ -1,0 +1,16 @@
+HealthTech Engineer resumes should focus on healthcare applications.
+
+Recruiters expect:
+• data privacy
+• medical data handling
+• compliance
+
+Projects should include:
+• healthcare systems
+• predictive models
+• patient outcomes
+
+Technologies:
+Python, HL7, FHIR
+
+Strong resumes show impact on healthcare.

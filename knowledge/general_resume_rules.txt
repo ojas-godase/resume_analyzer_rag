@@ -1,0 +1,25 @@
+Recruiters prefer resumes that show measurable impact rather than task descriptions.
+
+Each project or experience entry should include:
+• problem solved
+• technologies used
+• measurable outcome
+
+Strong bullet points follow this structure:
+Action verb + technology + result.
+
+Example:
+"Built a churn prediction model using XGBoost improving retention targeting accuracy by 18%."
+
+Avoid:
+• vague statements
+• large paragraphs
+• listing technologies without context
+
+Projects should include:
+• problem statement
+• tools used
+• dataset size if applicable
+• performance metrics
+
+Recruiters typically scan resumes in under 20 seconds, so key skills and projects should appear near the top.

@@ -1,0 +1,16 @@
+Fintech Engineer resumes should highlight financial systems.
+
+Recruiters expect:
+• transaction systems
+• security
+• compliance
+
+Projects should include:
+• payment systems
+• fraud detection
+• reliability metrics
+
+Technologies:
+Java, Spring, Kafka
+
+Strong resumes show high reliability.

@@ -1,0 +1,16 @@
+Compiler Engineer resumes should focus on programming language systems.
+
+Recruiters expect:
+• parsing
+• optimization
+• code generation
+
+Projects should include:
+• compiler design
+• performance improvements
+• language features
+
+Technologies:
+LLVM, C++
+
+Strong resumes show deep system understanding.

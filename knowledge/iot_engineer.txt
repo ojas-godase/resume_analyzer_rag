@@ -1,0 +1,16 @@
+IoT Engineer resumes should focus on connected devices.
+
+Recruiters expect:
+• device communication
+• edge processing
+• data pipelines
+
+Projects should include:
+• IoT systems
+• sensor integration
+• real-time monitoring
+
+Technologies:
+MQTT, embedded systems
+
+Strong resumes show real-world deployments.

@@ -1,0 +1,16 @@
+Data science resumes should focus on statistical reasoning and business insight generation.
+
+Recruiters expect:
+• data analysis workflow
+• feature engineering
+• model evaluation
+
+Projects should include:
+• dataset size
+• feature engineering strategy
+• model metrics such as RMSE, precision, recall, or AUC
+
+Tools expected:
+Python, Pandas, Scikit-learn, visualization tools.
+
+Strong candidates demonstrate translating models into business insights.

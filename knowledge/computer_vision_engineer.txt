@@ -1,0 +1,17 @@
+Computer vision resumes should demonstrate experience with image or video analysis models.
+
+Recruiters look for:
+• model architectures used
+• dataset preparation
+• evaluation metrics
+
+Projects should include:
+• dataset size
+• model accuracy or mAP
+• inference speed
+• real-world deployment
+
+Technologies:
+OpenCV, YOLO, CNN architectures, PyTorch.
+
+Projects involving real-time detection or tracking are highly valued.

@@ -1,0 +1,16 @@
+Search Engineer resumes should focus on ranking and retrieval systems.
+
+Recruiters expect:
+• search relevance tuning
+• indexing
+• ranking algorithms
+
+Projects should include:
+• search pipelines
+• latency optimization
+• ranking evaluation
+
+Technologies:
+Elasticsearch, Solr
+
+Strong resumes show improved search quality.

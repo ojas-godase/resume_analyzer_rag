@@ -1,0 +1,16 @@
+Ads Engineer resumes should focus on ad delivery and optimization.
+
+Recruiters expect:
+• ad ranking systems
+• targeting algorithms
+• performance optimization
+
+Projects should include:
+• ad serving pipelines
+• CTR improvement
+• latency reduction
+
+Technologies:
+Python, distributed systems
+
+Strong resumes show revenue impact.

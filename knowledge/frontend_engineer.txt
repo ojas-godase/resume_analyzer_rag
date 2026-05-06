@@ -1,0 +1,16 @@
+Frontend engineering resumes should highlight user interface development and performance optimization.
+
+Recruiters expect:
+• strong JavaScript framework experience
+• component-based architecture
+• responsive design
+
+Projects should include:
+• UI performance improvements
+• accessibility considerations
+• state management approach
+
+Technologies expected:
+React, Angular, Vue, TypeScript, HTML, CSS.
+
+Strong resumes demonstrate building real applications rather than static pages.

@@ -1,0 +1,16 @@
+Platform Security Engineer resumes should focus on securing platforms.
+
+Recruiters expect:
+• access control
+• threat detection
+• security automation
+
+Projects should include:
+• security pipelines
+• monitoring systems
+• incident response
+
+Technologies:
+IAM, SIEM tools
+
+Strong resumes show secure platforms.

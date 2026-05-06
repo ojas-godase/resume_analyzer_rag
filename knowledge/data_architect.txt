@@ -1,0 +1,16 @@
+Data Architect resumes should emphasize designing data systems.
+
+Recruiters expect:
+• data modeling
+• ETL pipelines
+• scalability
+
+Projects should include:
+• schema design
+• data flow architecture
+• performance optimization
+
+Technologies:
+Snowflake, BigQuery, Airflow
+
+Strong resumes show scalable data systems.

@@ -1,0 +1,16 @@
+Streaming Data Engineer resumes should highlight real-time data pipelines.
+
+Recruiters expect:
+• event-driven systems
+• real-time processing
+• fault tolerance
+
+Projects should include:
+• streaming pipelines
+• latency benchmarks
+• scaling strategies
+
+Technologies:
+Kafka, Flink, Spark Streaming
+
+Strong resumes show low-latency systems.

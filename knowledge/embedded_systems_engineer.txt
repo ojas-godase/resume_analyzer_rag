@@ -1,0 +1,16 @@
+Embedded Systems Engineer resumes should highlight hardware-software integration.
+
+Recruiters expect:
+• firmware development
+• real-time systems
+• hardware debugging
+
+Projects should include:
+• device-level programming
+• latency constraints
+• power optimization
+
+Technologies:
+C, C++, microcontrollers
+
+Strong resumes show working hardware.

@@ -1,0 +1,16 @@
+Knowledge Graph Engineer resumes should focus on graph-based systems.
+
+Recruiters expect:
+• graph modeling
+• entity linking
+• querying
+
+Projects should include:
+• knowledge graph pipelines
+• ontology design
+• query optimization
+
+Technologies:
+Neo4j, RDF, SPARQL
+
+Strong resumes show structured knowledge systems.

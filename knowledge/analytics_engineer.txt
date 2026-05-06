@@ -1,0 +1,16 @@
+Analytics engineering resumes should demonstrate transforming raw data into analytical datasets.
+
+Recruiters evaluate:
+• data modeling
+• SQL expertise
+• data transformation workflows
+
+Projects should include:
+• transformation logic
+• data model design
+• reporting layer development
+
+Technologies:
+SQL, dbt, BI tools.
+
+Strong candidates show ability to create reliable analytical datasets.

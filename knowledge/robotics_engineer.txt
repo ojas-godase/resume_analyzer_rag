@@ -1,0 +1,16 @@
+Robotics Engineer resumes should highlight automation systems.
+
+Recruiters expect:
+• control systems
+• perception
+• real-time processing
+
+Projects should include:
+• robot architecture
+• simulation results
+• performance metrics
+
+Technologies:
+ROS, Python, C++
+
+Strong resumes show working robotic systems.

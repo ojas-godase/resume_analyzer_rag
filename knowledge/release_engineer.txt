@@ -1,0 +1,16 @@
+Release Engineer resumes should focus on deployment pipelines.
+
+Recruiters expect:
+• CI/CD systems
+• release automation
+• rollback strategies
+
+Projects should include:
+• deployment pipelines
+• versioning systems
+• reliability metrics
+
+Technologies:
+Jenkins, GitHub Actions
+
+Strong resumes show smooth releases.

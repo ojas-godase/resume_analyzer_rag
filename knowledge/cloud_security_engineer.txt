@@ -1,0 +1,16 @@
+Cloud Security Engineer resumes should focus on securing cloud systems.
+
+Recruiters expect:
+• IAM policies
+• cloud threat modeling
+• compliance
+
+Projects should include:
+• security architecture
+• audit results
+• incident handling
+
+Technologies:
+AWS, Azure, GCP security tools
+
+Strong resumes show secure cloud infra.

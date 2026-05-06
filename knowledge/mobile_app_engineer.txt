@@ -1,0 +1,16 @@
+Mobile Engineer resumes should focus on building performant mobile applications.
+
+Recruiters expect:
+• Android/iOS development
+• UI/UX implementation
+• API integration
+
+Projects should include:
+• app architecture
+• performance optimization
+• user retention metrics
+
+Technologies:
+Kotlin, Swift, Flutter, React Native
+
+Strong resumes show shipped apps.

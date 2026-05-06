@@ -1,0 +1,16 @@
+MLOps resumes should demonstrate experience deploying and maintaining ML systems in production.
+
+Recruiters expect:
+• model versioning
+• experiment tracking
+• model monitoring
+
+Projects should include:
+• training pipelines
+• model deployment
+• performance monitoring
+
+Technologies:
+MLflow, Kubeflow, Docker, Kubernetes.
+
+Strong candidates demonstrate bridging machine learning and infrastructure.

@@ -1,0 +1,16 @@
+Blockchain Engineer resumes should highlight decentralized systems.
+
+Recruiters expect:
+• smart contract development
+• blockchain architecture
+• security
+
+Projects should include:
+• dApp development
+• contract audits
+• transaction optimization
+
+Technologies:
+Solidity, Ethereum, Web3.js
+
+Strong resumes show working blockchain apps.

@@ -1,0 +1,16 @@
+Cloud engineering resumes should emphasize designing and managing cloud infrastructure.
+
+Recruiters expect:
+• cloud architecture design
+• cost optimization
+• security configuration
+
+Projects should include:
+• infrastructure setup
+• scaling strategies
+• monitoring systems
+
+Platforms:
+AWS, Azure, GCP.
+
+Experience designing resilient cloud architectures is a strong signal.

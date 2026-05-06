@@ -1,0 +1,16 @@
+AI Ethics Engineer resumes should highlight responsible AI practices.
+
+Recruiters expect:
+• bias detection
+• fairness metrics
+• explainability
+
+Projects should include:
+• bias audits
+• model transparency tools
+• compliance checks
+
+Technologies:
+Fairlearn, SHAP, LIME
+
+Strong resumes show ethical AI implementation.

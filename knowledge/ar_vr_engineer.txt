@@ -1,0 +1,16 @@
+AR/VR Engineer resumes should focus on immersive systems.
+
+Recruiters expect:
+• 3D rendering
+• interaction design
+• performance optimization
+
+Projects should include:
+• AR/VR apps
+• rendering pipelines
+• FPS optimization
+
+Technologies:
+Unity, Unreal
+
+Strong resumes show immersive experiences.

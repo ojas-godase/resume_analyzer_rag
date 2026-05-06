@@ -1,0 +1,20 @@
+Software engineering resumes should emphasize problem solving ability and system development experience.
+
+Recruiters look for:
+• strong programming skills
+• data structures and algorithms knowledge
+• system design understanding
+
+Projects should include:
+• architecture decisions
+• complexity improvements
+• performance metrics
+
+Examples of strong signals:
+• built scalable service handling 10k+ requests/day
+• optimized algorithm reducing runtime by 40%
+
+Technologies commonly expected:
+Java, Python, C++, REST APIs, databases.
+
+Recruiters value clean code practices, testing, and modular design.

@@ -1,0 +1,18 @@
+Machine learning engineering resumes should focus on building and deploying ML systems.
+
+Recruiters evaluate:
+• model training pipelines
+• data preprocessing
+• model evaluation
+• deployment experience
+
+Projects should include:
+• dataset size
+• training strategy
+• evaluation metrics
+• deployment environment
+
+Technologies expected:
+PyTorch, TensorFlow, Scikit-learn, ML pipelines.
+
+Strong candidates demonstrate production-ready ML systems rather than only experimentation.

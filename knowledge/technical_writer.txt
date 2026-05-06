@@ -1,0 +1,16 @@
+Technical Writer resumes should focus on documentation clarity.
+
+Recruiters expect:
+• API documentation
+• user guides
+• clarity of communication
+
+Projects should include:
+• documentation systems
+• developer onboarding content
+• feedback improvements
+
+Technologies:
+Markdown, documentation tools
+
+Strong resumes show clear writing.

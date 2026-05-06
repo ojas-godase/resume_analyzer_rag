@@ -1,0 +1,17 @@
+Full stack engineers must demonstrate experience across both frontend and backend development.
+
+Recruiters expect:
+• API development
+• frontend framework experience
+• database integration
+• deployment knowledge
+
+Projects should show:
+• complete system development
+• integration between frontend and backend
+• authentication and authorization systems
+
+Common stacks:
+MERN, Django + React, Spring Boot + Angular.
+
+Recruiters value developers who can independently build and deploy full applications.

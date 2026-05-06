@@ -1,0 +1,16 @@
+SRE resumes should emphasize reliability and system uptime.
+
+Recruiters expect:
+• monitoring and alerting
+• incident response
+• automation
+
+Projects should include:
+• uptime improvements
+• MTTR reduction
+• scaling strategies
+
+Technologies:
+Prometheus, Grafana, Kubernetes, AWS
+
+Strong resumes show production stability.

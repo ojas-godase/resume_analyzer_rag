@@ -1,0 +1,16 @@
+Growth Engineer resumes should emphasize product growth systems.
+
+Recruiters expect:
+• experimentation
+• funnels
+• analytics
+
+Projects should include:
+• A/B testing systems
+• conversion optimization
+• user segmentation
+
+Technologies:
+SQL, analytics tools
+
+Strong resumes show measurable growth.

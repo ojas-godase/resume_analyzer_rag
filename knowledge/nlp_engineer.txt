@@ -1,0 +1,16 @@
+NLP engineering resumes should demonstrate experience processing and modeling text data.
+
+Recruiters evaluate:
+• language model usage
+• text preprocessing
+• evaluation methodology
+
+Projects should include:
+• dataset size
+• model architecture
+• evaluation metrics such as F1 or BLEU
+
+Technologies:
+Transformers, BERT, HuggingFace, tokenization tools.
+
+Applications such as chatbots, summarization systems, and search are valuable signals.

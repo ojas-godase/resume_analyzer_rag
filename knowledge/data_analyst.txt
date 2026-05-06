@@ -1,0 +1,16 @@
+Data Analyst resumes should demonstrate turning raw data into business insights.
+
+Recruiters expect:
+• SQL proficiency
+• dashboarding and visualization
+• data cleaning
+
+Projects should include:
+• business problem definition
+• KPIs tracked
+• impact of insights
+
+Technologies:
+SQL, Excel, Power BI, Tableau, Python
+
+Strong resumes show decision-making impact.

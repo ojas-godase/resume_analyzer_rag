@@ -1,0 +1,16 @@
+MLOps Platform Engineer resumes should focus on ML lifecycle automation.
+
+Recruiters expect:
+• CI/CD for ML
+• model monitoring
+• pipeline orchestration
+
+Projects should include:
+• training pipelines
+• deployment workflows
+• drift detection
+
+Technologies:
+Kubeflow, MLflow, Airflow
+
+Strong resumes show end-to-end ML automation.

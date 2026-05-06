@@ -1,0 +1,16 @@
+Observability Engineer resumes should focus on system monitoring.
+
+Recruiters expect:
+• logging
+• tracing
+• metrics
+
+Projects should include:
+• observability stack
+• alerting systems
+• incident reduction
+
+Technologies:
+Prometheus, Grafana, OpenTelemetry
+
+Strong resumes show improved reliability.

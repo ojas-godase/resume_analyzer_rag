@@ -1,0 +1,16 @@
+Database Engineer resumes should highlight data storage systems.
+
+Recruiters expect:
+• indexing
+• query optimization
+• replication
+
+Projects should include:
+• database design
+• performance tuning
+• scaling
+
+Technologies:
+PostgreSQL, MySQL
+
+Strong resumes show high-performance DBs.

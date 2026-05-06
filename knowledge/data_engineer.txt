@@ -1,0 +1,16 @@
+Data engineering resumes should focus on building reliable data pipelines.
+
+Recruiters evaluate:
+• ETL pipeline design
+• distributed data processing
+• data warehousing
+
+Projects should include:
+• pipeline scale
+• data processing throughput
+• fault tolerance strategies
+
+Technologies:
+Spark, Kafka, Airflow, SQL, cloud data platforms.
+
+Strong candidates demonstrate handling large datasets and pipeline reliability.

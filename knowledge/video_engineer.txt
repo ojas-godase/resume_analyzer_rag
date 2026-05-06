@@ -1,0 +1,16 @@
+Video Engineer resumes should focus on video processing systems.
+
+Recruiters expect:
+• encoding/decoding
+• streaming
+• optimization
+
+Projects should include:
+• video pipelines
+• compression techniques
+• latency reduction
+
+Technologies:
+FFmpeg, codecs
+
+Strong resumes show scalable video systems.

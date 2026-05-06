@@ -1,0 +1,16 @@
+DSP Engineer resumes should focus on signal processing systems.
+
+Recruiters expect:
+• filtering
+• signal analysis
+• optimization
+
+Projects should include:
+• DSP pipelines
+• real-time processing
+• performance metrics
+
+Technologies:
+MATLAB, Python
+
+Strong resumes show efficient signal systems.
